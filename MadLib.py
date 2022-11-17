@@ -1,6 +1,0 @@
-verb1 = input("Type a verb with ing here: ")
-adjective1 = input("Type a Adjective with y in it here: ")
-noun1 = input("Type a person's name here: ")
-noun2 = input("Type a secound noun here: ")
-verb2 = input("Type a secound verb here with a ly: ")
-print("It was a dark and "+adjective1+". It was at "+noun1+"'s House. They were "+verb1+". Then they threw a "+noun2+" at you. You "+verb2+" dodged it.")

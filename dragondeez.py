@@ -92,6 +92,8 @@ t.pensize(.001)
 
 t.goto(90,50)
 
+#wings
+
 t.color("black")
 
 t.pensize(10)

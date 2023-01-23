@@ -106,8 +106,4 @@ t.right(90)
 
 t.forward(30)
 
-while True:
-
-    t=0
-    
-    t+=1
+turtle.exitonclick()
